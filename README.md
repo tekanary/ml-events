@@ -1,2 +1,2 @@
 # ml-events
-Store my projects related to machine learning
+This repository will be used to store all work done on machine learning
